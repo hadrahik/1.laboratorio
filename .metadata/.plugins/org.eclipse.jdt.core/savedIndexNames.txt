@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\HP\Pictures\entregable.C\laboratorio.1\.metadata\.plugins\org.eclipse.jdt.core
+1673397742.index
+2784049767.index
+102338283.index
+3492934852.index
+1865797976.index
